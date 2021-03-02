@@ -1,0 +1,10 @@
+Question 1
+I see a rabbit on a black screen that when clicked, I can drag around. When I open another tab and perform a click/drag action I see that both tabs update.
+
+Question 2
+Typescript is a compiled language whereas JS does not need to be compiled as such. Typescrpit allows for static typing and generics whereas JS does not have a concept for that. TS is considered Object oriented whereas JS is considered a scripting language. 
+
+Question 3
+Web application bundlers are useful for modern web projects because they allow for several convenience features. Transpiling of langauges into Html,css or JS. They allow for minifying: make files smaller, concatenation: put lots of code together into less files. uglify: to prevent copying of code.
+ParcelJs features include hotmodule replacement(update as you make changes), bundling of all assets, automatic transofrms, and freidnly error logging.
+
